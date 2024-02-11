@@ -30,8 +30,8 @@
 
 [Select the appropriate category for the plugin: Community Plugin or Project Plugin for a specific project]
 
-- [] Community Plugin (e.g, Multicall plugin, Tokens plugin)
-- [] Project Plugin: (e.g, Chainlink plugin, Superfluid plugin)
+- [] Community Plugin (general usage plugin for everyone, e.g, Multicall plugin, Tokens plugin)
+- [] Project Plugin: (plugin to interact with an specific project, e.g, Chainlink plugin, Superfluid plugin)
 - [] Other (specify)
 
 ## Use Cases
