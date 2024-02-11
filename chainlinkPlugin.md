@@ -43,4 +43,4 @@ Before the plugin, devs needs to manually search and import the address, and the
 
 ## Optional:
 
-Diagrams, Videos, Code, etc... (This will not affect your submission - but make sure everything is understandable)
+[Include any additional information, such as diagrams, videos, code snippets, or tips for using/understanding the plugin idea effectively.]
