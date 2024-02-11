@@ -53,3 +53,8 @@
 ## Tips:
 
 [Make sure to provide a clear overview, in case we don't know how the project works, we can get a clear undesrtanding about how it works and how the plugin provides value to that specific project or use case.]
+
+## Not accepted:
+
+- Ideas related to improvements of current [web3 plugins](https://web3js.org/plugins)
+- Ideas related to these projects: Chainlink, Superfluid, Near & zkSync
