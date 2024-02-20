@@ -46,9 +46,9 @@
 
 [Explain how the plugin improves the developer experience or project functionality compared to before its implementation.]
 
-## Optional
+## Mandatory
 
-[Include any additional information, such as diagrams, videos, code snippets, or tips for using/understanding the plugin idea effectively.]
+[Diagram or video explaning the process/flow of the plugin]
 
 ## Tips:
 
