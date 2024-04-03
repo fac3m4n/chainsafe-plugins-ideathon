@@ -2,7 +2,7 @@
 
 ## Overview
 
-This plugin aims to integrate the [Sablier protocol](https://sablier.com/) into the web3.js library, enabling developers to seamlessly create, manage, and interact with Sablier streams within their decentralized applications (DApps). Sablier is a token streaming protocol that allows for real-time, continuous token transfers, particularly useful for handling payroll, vesting, airdrops, and other recurring payment scenarios.
+This plugin aims to integrate the [Sablier protocol](https://sablier.com/) into the web3.js library, enabling developers to seamlessly create, manage, and interact with Sablier streams within their DApps. Sablier is a token streaming protocol that allows for real-time, continuous token transfers, particularly useful for handling payroll, vesting, airdrops, and other recurring payment scenarios.
 
 - **How does the project work?** Sablier creates ERC-721 NFT streams that represent a continuous token flow from a sender to a recipient over a specified duration. The sender deposits tokens into the stream, and the recipient can withdraw the accrued tokens at any time during the stream's lifespan.
 
