@@ -1,5 +1,7 @@
 # Sablier Plugin for web3.js
 
+![Cover Image](web3js_sablier.png)
+
 ## Overview
 
 This plugin aims to integrate the [Sablier protocol](https://sablier.com/) into the web3.js library, enabling developers to seamlessly create, manage, and interact with Sablier streams within their DApps. Sablier is a token streaming protocol that allows for real-time, continuous token transfers, particularly useful for handling payroll, vesting, airdrops, and other recurring payment scenarios.
